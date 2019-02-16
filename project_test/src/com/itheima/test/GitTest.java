@@ -15,5 +15,6 @@ public class GitTest {
         int i=1;
         int b=i+10;
         System.out.println(b);
+        System.out.println(b);
     }
 }
