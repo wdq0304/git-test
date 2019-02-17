@@ -14,8 +14,10 @@ public class GitTest {
     public static void test(){
         int i=1;
         int b=i+10;
+        int c=i+b;
         System.out.println(b);
         System.out.println(b);
         System.out.println(b+1);
+        System.out.println("c的值是"+c);
     }
 }
